@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abda</h1>
 <h3 align="center">Tech-passionate IT student actively building expertise in Cybersecurity</h3>
 
-- 👨‍💻 All of my projects are available at [https://abdaporto-jan26.netlify.app/](https://abdaporto-jan26.netlify.app/)
+- 👨‍💻 All of my projects are available at [abdaporto-jan26](https://abdaporto-jan26.netlify.app/)
 
-- 📝 I regularly write articles on [https://medium.com/@9a.mramdhania.mbs](https://medium.com/@9a.mramdhania.mbs)
+- 📝 I regularly write articles on [@9a.mramdhania.mbs](https://medium.com/@9a.mramdhania.mbs)
 
 - 📫 How to reach me **ikhlasulabda@gmail.com**
 
