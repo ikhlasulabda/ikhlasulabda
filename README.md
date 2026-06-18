@@ -91,9 +91,9 @@ abda.say_hi
 
 ## Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](YOUR_PORTFOLIO)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://abdaportfolio.netlify.app/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abda-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abda-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ikhlaashulabda)
 
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:ikhlasulabda@gmail.com)
 
