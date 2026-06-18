@@ -1,10 +1,12 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Luckiest+Guy&duration=3000&pause=5000&color=EBF732&center=true&vCenter=true&width=900&lines=Hello+I'm+Abda;Cybersecurity+Student;Building+Projects+%26+Breaking+Things+Safely;Blue+Team+%7C+SOC+%7C+SIEM+Operations)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Luckiest+Guy&size=40&duration=3000&pause=5000&color=EBF732&center=true&vCenter=true&width=1200&height=100&lines=Hello+I'm+Abda;Cybersecurity+Student;Spending+Free+Time+Shipping+Projects)](https://git.io/typing-svg)
+
+<br>
+
+<img src="https://i.programmerhumor.io/2026/06/d0c5d68cd843c00d1694f8c39fce1f2a21669a41a4ee21d31a25cbc4a4b084aa.gif" width="700"/>
 
 </div>
-
----
 
 # Hey There
 
@@ -14,7 +16,7 @@
 class CybersecurityStudent
 
   def initialize
-    @name = "Muhammad Abda"
+    @name = "Ikhlaashul Abda"
     @role = "Cybersecurity Student"
     @location = "Indonesia"
     @focus = [
@@ -41,48 +43,6 @@ abda.say_hi
 [+] Learning Cyber Security
 [+] Practicing Penetration Testing
 [+] Building Useful Website (pecut gaming)
-```
-
----
-
-## Featured Projects
-
-### 🎵 Frequencies
-
-AI-powered music curation platform.
-
-```yaml
-Stack:
-  - Next.js 15
-  - TypeScript
-  - Gemini API
-  - Upstash Redis
-  - Deezer API
-
-Features:
-  - AI Music Analysis
-  - Conversational Questionnaire
-  - Shareable Cards
-  - Audio Preview
-```
-
----
-
-### 📁 KirimApaBae
-
-Secure file-sharing platform.
-
-```yaml
-Stack:
-  - Laravel 11
-  - MySQL
-  - Blade + Tailwind CSS
-
-Features:
-  - Password Protection
-  - Expiring Files
-  - QR Sharing
-  - Token Based Access
 ```
 
 ---
