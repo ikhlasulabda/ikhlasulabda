@@ -4,11 +4,11 @@
 
 <br>
 
-<img src="https://i.programmerhumor.io/2026/06/d0c5d68cd843c00d1694f8c39fce1f2a21669a41a4ee21d31a25cbc4a4b084aa.gif" width="700"/>
+<img src="https://i.programmerhumor.io/2026/06/d0c5d68cd843c00d1694f8c39fce1f2a21669a41a4ee21d31a25cbc4a4b084aa.gif" width="600"/>
 
 </div>
 
-# Hey There
+# Hey There !!
 
 ```ruby
 #!/usr/bin/env ruby
@@ -42,12 +42,12 @@ abda.say_hi
 ```txt
 [+] Learning Cyber Security
 [+] Practicing Penetration Testing
-[+] Building Useful Website (pecut gaming)
+[+] Spending Free time Building Stuff (pecut gaming 😋😅)
 ```
 
 ---
 
-## 🧰 Toolbox
+## Toolbox
 
 ### Programming Languages
 
@@ -74,7 +74,7 @@ abda.say_hi
 
 ### Operating Systems
 
-![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
+![Linux](https://img.shields.io/badge/OS-Kali_Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
 ![Ubuntu](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=6aa6f8)
 ![Windows Server](https://img.shields.io/badge/OS-Windows_Server-informational?style=flat&logo=windows&logoColor=white&color=6aa6f8)
 
@@ -89,11 +89,14 @@ abda.say_hi
 
 ---
 
-## 📊 GitHub Analytics
+## Connect With Me
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ikhlasulabda&show_icons=true&theme=tokyonight"/>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](YOUR_PORTFOLIO)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abda-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:ikhlasulabda@gmail.com)
+
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikhlasulabda&layout=compact&theme=tokyonight"/>
