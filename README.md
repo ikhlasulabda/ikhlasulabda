@@ -1,9 +1,5 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Luckiest+Guy&size=40&duration=3000&pause=5000&color=EBF732&center=true&vCenter=true&width=1200&height=100&lines=Hello+I'm+Abda;Cybersecurity+Student;Spending+Free+Time+Shipping+Projects)](https://git.io/typing-svg)
-
-<br>
-
 <img src="https://i.programmerhumor.io/2026/06/d0c5d68cd843c00d1694f8c39fce1f2a21669a41a4ee21d31a25cbc4a4b084aa.gif" width="600"/>
 
 </div>
