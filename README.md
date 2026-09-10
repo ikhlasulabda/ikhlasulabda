@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.programmerhumor.io/2026/06/d0c5d68cd843c00d1694f8c39fce1f2a21669a41a4ee21d31a25cbc4a4b084aa.gif" width="600"/>
+<img src="https://i.programmerhumor.io/2026/06/d0c5d68cd843c00d1694f8c39fce1f2a21669a41a4ee21d31a25cbc4a4b084aa.gif" width="500"/>
 
 </div>
 
