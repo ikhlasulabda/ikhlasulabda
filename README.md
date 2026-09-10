@@ -26,11 +26,6 @@ class CybersecurityStudent
     ]
   end
 
-  def say_hi
-    puts "Welcome to my digital playground."
-    puts "Feel free to explore my projects."
-  end
-
 end
 
 abda = CybersecurityStudent.new
@@ -94,18 +89,5 @@ abda.say_hi
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://abdaportfolio.netlify.app/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abda-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ikhlaashulabda)
-
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:ikhlasulabda@gmail.com)
-
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikhlasulabda&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-<div align="center">
-
-"Learn. Build. Break. Secure. Ngaji. Tidur"
 
 </div>
