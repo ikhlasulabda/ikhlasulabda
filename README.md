@@ -32,16 +32,6 @@ abda = CybersecurityStudent.new
 abda.say_hi
 ```
 
-## Current Mission
-
-```txt
-[+] Learning Cyber Security
-[+] Practicing Penetration Testing
-[+] Spending Free time Building Stuff (pecut gaming 😋😅)
-```
-
----
-
 ## Toolbox
 
 ### Programming Languages
